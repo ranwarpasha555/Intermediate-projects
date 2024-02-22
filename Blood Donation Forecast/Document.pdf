@@ -1,0 +1,23 @@
+#Predict-Blood-Donations :
+Forecasting blood supply is a serious and recurrent problem for blood collection managers.In this Project, you will work with data collected from the donor database of Blood TransfusionService Center.  The dataset, obtained from the Machine Learning Repository, consists of arandom sample of 748 donors. Your task will be to predict if a blood donor will donate within a giventime window. You will look at the full model-building process: from inspecting the dataset to usingthe tpot library to automate your Machine Learning pipeline. To complete this Project, you need to know some Python, pandas, and logistic regression.
+
+1--> Implementing the basic libraries Like Pandas, Numpy, matplotlib,Sklearn etc.
+
+2--> loading the Blood donation data.
+
+3--> Implementing the Clasiifier Algorithm :
+    TPOTClassifier :
+        TPOT is a Python tool that uses genetic programming to automate machine learning pipelines. TPOT classifiers can perform intelligent searches over machine learning pipelines that can contain supervised classification models and preprocessors.
+
+    linear Model :
+        Linear models describe a continuous response variable as a function of one or more predictor variables. They can help you understand and predict the behavior of complex systems or analyze experimental, financial, and biological data. Linear regression is a statistical method used to create a linear mode.
+
+4-->Predicting :
+    -- Predicting the accuracy .
+    -- Predicting the Values.
+
+5--> Testing The Data :
+    -- Train Test Split function used to test the data.
+    -- train and test the set of data.
+
+    
